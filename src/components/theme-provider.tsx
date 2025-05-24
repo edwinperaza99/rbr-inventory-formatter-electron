@@ -1,7 +1,5 @@
-"use client";
-
-import React, { useEffect, useState } from "react";
 import { type Theme, ThemeContext } from "@/components/theme-context";
+import React, { useEffect, useState } from "react";
 
 export function ThemeProvider({
 	children,

@@ -1,5 +1,3 @@
-import "./App.css";
-
 // import { Label } from "@/components/ui/label";
 // import { Input } from "@/components/ui/input";
 // import { Button } from "@/components/ui/button";
@@ -13,6 +11,8 @@ import "./App.css";
 // import { Calendar as CalendarIcon } from "lucide-react";
 // import { cn } from "@/lib/utils";
 import Navbar from "@/components/nav-bar";
+
+import "./App.css";
 
 function App() {
 	return (
